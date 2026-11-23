@@ -1,0 +1,33 @@
+{
+  "version": "v3.2",
+  "passed": 13,
+  "checks": [
+    "engine PCM preserves its phase between consecutive chunks",
+    "engine chunks have correct stereo duration",
+    "engine sample advances five times faster at 5000 than at 1000 RPM",
+    "rear-end collision selects original sample 98",
+    "tree collision selects its distinct original sample 105",
+    "original time pickup really increases remaining time",
+    "time pickup never says checkpoint",
+    "real native checkpoint says checkpoint once",
+    "remaining under checkpoint does not repeat the voice",
+    "all original checkpoints have visible gates at their real positions",
+    "original Forest log starts a native jump",
+    "log jump has an apex and returns to the ground",
+    "positive native jump moves car UP on screen"
+  ],
+  "engine_period_formula": "max(124, 0xFCC3A // native_RPM)",
+  "jump_apex": 74.421875,
+  "source_assets": {
+    "engine": [
+      96,
+      97
+    ],
+    "rear_collision": 98,
+    "tree_collision": 105,
+    "skid": 108
+  },
+  "limitations": [
+    "Host mixes the original samples; the complete Paula chip and its analog filter are not emulated."
+  ]
+}

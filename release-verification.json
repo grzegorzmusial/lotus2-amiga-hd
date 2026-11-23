@@ -1,0 +1,145 @@
+{
+  "version": "Amiga HD v3.8",
+  "exe_sha256": "4d5aad1ca29da41e2bde0e9edee90c17e491f2e802775eee57504531ef96c894",
+  "headless_exe_120_race_frames_exit": 0,
+  "native_fullscreen_exe_60_menu_frames_exit": 0,
+  "fullscreen_default": true,
+  "fullscreen_resolution": [
+    1920,
+    1080
+  ],
+  "f11_window_and_back": true,
+  "baseline_checks": 34,
+  "playability_checks": 23,
+  "perspective_and_handling_checks": 14,
+  "total_checks": 241,
+  "physical_pads_connected": 0,
+  "reference_render_video": {
+    "r_frame_rate": "50/1",
+    "duration": "15.000000",
+    "nb_frames": "750"
+  },
+  "corner_boundaries_tested": 4965,
+  "corner_continuity_max_pixels": 0.0003804676818504049,
+  "headless_exe_180_race_frames_exit": 0,
+  "audio_checks": 35,
+  "race_events_checks": 13,
+  "actual_audio_mixer": [
+    44100,
+    -16,
+    2
+  ],
+  "exe_file": "Lotus2-Amiga-HD-v3.8.exe",
+  "feedback_checks": 19,
+  "menu_module": "intro.mod / bootup / asset 36",
+  "countdown_sample_ids": [
+    88,
+    89,
+    90
+  ],
+  "time_limit_enabled": false,
+  "checkpoint_screen_flash": true,
+  "v34_checks": 20,
+  "backgrounds": "Eight generated HD source textures composed at 1920x1080",
+  "start_words": [
+    "MARKS",
+    "SET",
+    "GO!"
+  ],
+  "wheel_animation": true,
+  "passing_car_scale_matches": true,
+  "smooth_corner_entry": true,
+  "render_interpolation": true,
+  "v35_checks": 23,
+  "windows_headless_race_180_frames_exit": 0,
+  "windows_fullscreen_menu_60_frames_exit": 0,
+  "night_tunnel_count": 34,
+  "storm_turbo_count": 5,
+  "original_reference": {
+    "core": "PUAE A500 PAL",
+    "storm_first_pickup_record": 189.99693298339844,
+    "storm_first_boost_ticks_remaining": 499,
+    "storm_last_boost_ticks_remaining": 1,
+    "storm_boost_expired": true,
+    "first_night_tunnel_marker_records": [
+      276,
+      282
+    ]
+  },
+  "two_player_split": "vertical",
+  "two_player_views": [
+    [
+      0,
+      0,
+      957,
+      1080
+    ],
+    [
+      963,
+      0,
+      957,
+      1080
+    ]
+  ],
+  "v36_layout_checks": [
+    1,
+    2,
+    4
+  ],
+  "v36_windows_headless_race_30_frames_exit": 0,
+  "v37_checks": 27,
+  "windows_headless_race_60_frames_exit": 0,
+  "windows_fullscreen_menu_30_frames_exit": 0,
+  "passing_second_difference_std": {
+    "previous": 1.6677471522702214,
+    "interpolated": 0.37650261105971056
+  },
+  "car_source_dimensions": [
+    512,
+    312
+  ],
+  "car_art": "image_gen / nine rear poses",
+  "storm_weather": [
+    "rain",
+    "moving clouds",
+    "lightning"
+  ],
+  "automatic_course_progression": true,
+  "keyboard": [
+    "arrows",
+    "WASD",
+    "IJKL",
+    "numpad"
+  ],
+  "four_player_storm_performance": {
+    "frames": 180,
+    "players": 4,
+    "course": "Storm",
+    "mean_ms": 17.904089433917154,
+    "p95_ms": 26.08908002730459,
+    "unlimited_fps": 55.85316157467465
+  },
+  "v38_checks": 33,
+  "wheel_animation_phases": 8,
+  "wheel_changed_pixels_at_192px": [
+    398,
+    498,
+    581,
+    580,
+    538,
+    538,
+    473,
+    470,
+    339
+  ],
+  "rain_particles": 1200,
+  "rain_pixel_coverage": 0.025948173703904776,
+  "storm_original_audio": {
+    "rain": 81,
+    "thunder": 109,
+    "code_addresses": [
+      "0x73252",
+      "0x73690"
+    ]
+  }
+}

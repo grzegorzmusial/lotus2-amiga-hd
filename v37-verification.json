@@ -1,0 +1,37 @@
+{
+  "version": "v3.7",
+  "passed": 27,
+  "checks": [
+    "opponent interpolation reduces uneven movement at 176 mph",
+    "fast overtake crosses from in front to behind",
+    "drawing opponents leaves their native positions unchanged",
+    "traffic ring wraps through its boundary without a long sweep",
+    "rival remains visible after the previous rear cutoff",
+    "car pose 0 has detailed transparent artwork",
+    "car pose 1 has detailed transparent artwork",
+    "car pose 2 has detailed transparent artwork",
+    "car pose 3 has detailed transparent artwork",
+    "car pose 4 has detailed transparent artwork",
+    "car pose 5 has detailed transparent artwork",
+    "car pose 6 has detailed transparent artwork",
+    "car pose 7 has detailed transparent artwork",
+    "car pose 8 has detailed transparent artwork",
+    "all four HD player liveries are distinct",
+    "player 1 uses arrows and player 2 uses WASD",
+    "rain falls between frames",
+    "cloud layer moves between frames",
+    "Storm lightning illuminates the sky",
+    "lightning clears after the strike",
+    "pausing freezes the weather animation",
+    "finishing Night queues Fog while the application stays running",
+    "results remain visible briefly before advancing",
+    "next course starts automatically with both players and start voices",
+    "course continuation clears finish and turbo state",
+    "Enter can advance immediately to the queued course",
+    "last course ends at final results"
+  ],
+  "passing_second_difference_std": {
+    "previous": 1.6677471522702214,
+    "interpolated": 0.37650261105971056
+  }
+}

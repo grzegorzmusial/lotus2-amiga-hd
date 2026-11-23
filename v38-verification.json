@@ -1,0 +1,59 @@
+{
+  "version": "v3.8",
+  "passed": 33,
+  "checks": [
+    "rolling tires remain visible at in-game size in pose 0",
+    "tire animation preserves the upper body in pose 0",
+    "rolling tires remain visible at in-game size in pose 1",
+    "tire animation preserves the upper body in pose 1",
+    "rolling tires remain visible at in-game size in pose 2",
+    "tire animation preserves the upper body in pose 2",
+    "rolling tires remain visible at in-game size in pose 3",
+    "tire animation preserves the upper body in pose 3",
+    "rolling tires remain visible at in-game size in pose 4",
+    "tire animation preserves the upper body in pose 4",
+    "rolling tires remain visible at in-game size in pose 5",
+    "tire animation preserves the upper body in pose 5",
+    "rolling tires remain visible at in-game size in pose 6",
+    "tire animation preserves the upper body in pose 6",
+    "rolling tires remain visible at in-game size in pose 7",
+    "tire animation preserves the upper body in pose 7",
+    "rolling tires remain visible at in-game size in pose 8",
+    "tire animation preserves the upper body in pose 8",
+    "HD wheel animation contains eight distinct phases",
+    "stopped car uses a still wheel texture",
+    "moving car selects its wheel phase from distance travelled",
+    "Storm starts the recovered looping rain sample",
+    "rain source is the original asset 81",
+    "thunder source is original asset 109 with the original pitch",
+    "lightning triggers original thunder",
+    "second flash does not restart the same thunder sound",
+    "mute silences rain and thunder",
+    "pause silences rain and thunder",
+    "resuming restores rain volume",
+    "leaving Storm stops both weather channels",
+    "other courses have no Storm rain sound",
+    "downpour is clearly visible across the viewport",
+    "rain moves every rendered frame"
+  ],
+  "wheel_changed_pixels_at_192px": [
+    398,
+    498,
+    581,
+    580,
+    538,
+    538,
+    473,
+    470,
+    339
+  ],
+  "rain_pixel_coverage": 0.025948173703904776,
+  "original_audio": {
+    "rain": 81,
+    "thunder": 109,
+    "code_addresses": [
+      "0x73252",
+      "0x73690"
+    ]
+  }
+}

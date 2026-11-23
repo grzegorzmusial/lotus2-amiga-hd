@@ -1,0 +1,459 @@
+[
+  {
+    "asset": 36,
+    "name": "intro",
+    "bytes": 83302,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 58,
+        "size": 3768
+      },
+      {
+        "instrument": 2,
+        "asset": 72,
+        "size": 3802
+      },
+      {
+        "instrument": 3,
+        "asset": 73,
+        "size": 4140
+      },
+      {
+        "instrument": 4,
+        "asset": 74,
+        "size": 6714
+      },
+      {
+        "instrument": 5,
+        "asset": 85,
+        "size": 4822
+      },
+      {
+        "instrument": 6,
+        "asset": 71,
+        "size": 1568
+      },
+      {
+        "instrument": 7,
+        "asset": 76,
+        "size": 6848
+      },
+      {
+        "instrument": 8,
+        "asset": 86,
+        "size": 3862
+      },
+      {
+        "instrument": 9,
+        "asset": 62,
+        "size": 4326
+      },
+      {
+        "instrument": 10,
+        "asset": 63,
+        "size": 2724
+      },
+      {
+        "instrument": 11,
+        "asset": 70,
+        "size": 9400
+      },
+      {
+        "instrument": 12,
+        "asset": 78,
+        "size": 54
+      },
+      {
+        "instrument": 31,
+        "asset": 51,
+        "size": 14830
+      }
+    ]
+  },
+  {
+    "asset": 37,
+    "name": "gameover",
+    "bytes": 35882,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 73,
+        "size": 4140
+      },
+      {
+        "instrument": 2,
+        "asset": 68,
+        "size": 5816
+      },
+      {
+        "instrument": 5,
+        "asset": 58,
+        "size": 3768
+      },
+      {
+        "instrument": 7,
+        "asset": 59,
+        "size": 970
+      },
+      {
+        "instrument": 9,
+        "asset": 77,
+        "size": 6186
+      },
+      {
+        "instrument": 13,
+        "asset": 67,
+        "size": 8458
+      },
+      {
+        "instrument": 15,
+        "asset": 54,
+        "size": 2736
+      },
+      {
+        "instrument": 17,
+        "asset": 50,
+        "size": 1700
+      }
+    ]
+  },
+  {
+    "asset": 38,
+    "name": "title",
+    "bytes": 95602,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 73,
+        "size": 4140
+      },
+      {
+        "instrument": 2,
+        "asset": 68,
+        "size": 5816
+      },
+      {
+        "instrument": 3,
+        "asset": 69,
+        "size": 9728
+      },
+      {
+        "instrument": 4,
+        "asset": 49,
+        "size": 2642
+      },
+      {
+        "instrument": 5,
+        "asset": 58,
+        "size": 3768
+      },
+      {
+        "instrument": 6,
+        "asset": 57,
+        "size": 206
+      },
+      {
+        "instrument": 7,
+        "asset": 59,
+        "size": 970
+      },
+      {
+        "instrument": 8,
+        "asset": 72,
+        "size": 3802
+      },
+      {
+        "instrument": 9,
+        "asset": 77,
+        "size": 6186
+      },
+      {
+        "instrument": 10,
+        "asset": 76,
+        "size": 6848
+      },
+      {
+        "instrument": 11,
+        "asset": 84,
+        "size": 12398
+      },
+      {
+        "instrument": 12,
+        "asset": 71,
+        "size": 1568
+      },
+      {
+        "instrument": 13,
+        "asset": 67,
+        "size": 8458
+      },
+      {
+        "instrument": 15,
+        "asset": 54,
+        "size": 2736
+      },
+      {
+        "instrument": 17,
+        "asset": 50,
+        "size": 1700
+      }
+    ]
+  },
+  {
+    "asset": 40,
+    "name": "jingle-40",
+    "bytes": 37992,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 65,
+        "size": 2100
+      },
+      {
+        "instrument": 2,
+        "asset": 53,
+        "size": 4480
+      },
+      {
+        "instrument": 3,
+        "asset": 48,
+        "size": 9476
+      },
+      {
+        "instrument": 4,
+        "asset": 61,
+        "size": 4854
+      },
+      {
+        "instrument": 9,
+        "asset": 76,
+        "size": 6848
+      },
+      {
+        "instrument": 10,
+        "asset": 71,
+        "size": 1568
+      },
+      {
+        "instrument": 11,
+        "asset": 60,
+        "size": 3486
+      }
+    ]
+  },
+  {
+    "asset": 41,
+    "name": "jingle-41",
+    "bytes": 39662,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 52,
+        "size": 8900
+      },
+      {
+        "instrument": 2,
+        "asset": 69,
+        "size": 9728
+      },
+      {
+        "instrument": 3,
+        "asset": 84,
+        "size": 12398
+      },
+      {
+        "instrument": 5,
+        "asset": 53,
+        "size": 4480
+      }
+    ]
+  },
+  {
+    "asset": 42,
+    "name": "jingle-42",
+    "bytes": 27090,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 64,
+        "size": 8640
+      },
+      {
+        "instrument": 2,
+        "asset": 61,
+        "size": 4854
+      },
+      {
+        "instrument": 3,
+        "asset": 76,
+        "size": 6848
+      },
+      {
+        "instrument": 4,
+        "asset": 71,
+        "size": 1568
+      }
+    ]
+  },
+  {
+    "asset": 43,
+    "name": "jingle-43",
+    "bytes": 19458,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 87,
+        "size": 8092
+      },
+      {
+        "instrument": 2,
+        "asset": 77,
+        "size": 6186
+      }
+    ]
+  },
+  {
+    "asset": 44,
+    "name": "jingle-44",
+    "bytes": 24312,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 66,
+        "size": 7622
+      },
+      {
+        "instrument": 2,
+        "asset": 59,
+        "size": 970
+      },
+      {
+        "instrument": 3,
+        "asset": 49,
+        "size": 2642
+      },
+      {
+        "instrument": 4,
+        "asset": 54,
+        "size": 2736
+      },
+      {
+        "instrument": 5,
+        "asset": 77,
+        "size": 6186
+      }
+    ]
+  },
+  {
+    "asset": 45,
+    "name": "jingle-45",
+    "bytes": 40964,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 61,
+        "size": 4854
+      },
+      {
+        "instrument": 2,
+        "asset": 60,
+        "size": 3486
+      },
+      {
+        "instrument": 3,
+        "asset": 79,
+        "size": 7110
+      },
+      {
+        "instrument": 4,
+        "asset": 66,
+        "size": 7622
+      },
+      {
+        "instrument": 5,
+        "asset": 62,
+        "size": 4326
+      },
+      {
+        "instrument": 6,
+        "asset": 63,
+        "size": 2724
+      },
+      {
+        "instrument": 7,
+        "asset": 55,
+        "size": 3962
+      },
+      {
+        "instrument": 8,
+        "asset": 50,
+        "size": 1700
+      }
+    ]
+  },
+  {
+    "asset": 46,
+    "name": "jingle-46",
+    "bytes": 27756,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 66,
+        "size": 7622
+      },
+      {
+        "instrument": 2,
+        "asset": 50,
+        "size": 1700
+      },
+      {
+        "instrument": 3,
+        "asset": 49,
+        "size": 2642
+      },
+      {
+        "instrument": 4,
+        "asset": 54,
+        "size": 2736
+      },
+      {
+        "instrument": 5,
+        "asset": 52,
+        "size": 8900
+      }
+    ]
+  },
+  {
+    "asset": 47,
+    "name": "jingle-47",
+    "bytes": 32296,
+    "sample_sources": [
+      {
+        "instrument": 1,
+        "asset": 67,
+        "size": 8458
+      },
+      {
+        "instrument": 2,
+        "asset": 49,
+        "size": 2642
+      },
+      {
+        "instrument": 3,
+        "asset": 54,
+        "size": 2736
+      },
+      {
+        "instrument": 4,
+        "asset": 75,
+        "size": 13194
+      },
+      {
+        "instrument": 5,
+        "asset": 56,
+        "size": 1110
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "url": "https://www.youtube.com/watch?v=JLlWlsb9GpQ",
+  "title": "Lotus Turbo Challenge 2 Longplay (Amiga) [50 FPS]",
+  "author": "AL82 Retrogaming Longplays",
+  "menu_asset": 36,
+  "module": "bootup",
+  "source": "Local original ADF; opening loader at 0x731B0 selects asset 36",
+  "audio_downloaded_from_youtube": false
+}

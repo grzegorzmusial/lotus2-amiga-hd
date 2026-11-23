@@ -1,0 +1,132 @@
+{
+  "version": "v3.4",
+  "passed": 20,
+  "checks": [
+    "visual countdown is MARKS, SET, GO and then clears",
+    "four moving tire phases produce four different images",
+    "wheel animation leaves the upper car body unchanged",
+    "black livery also animates tires without repainting the body",
+    "passing rival at relative depth 22.5 has player width",
+    "passing rival at relative depth 0 has player width",
+    "passing rival at relative depth -10 has player width",
+    "stopped player uses static tires",
+    "moving player selects tire phase from distance",
+    "course 1 has new detailed art and Full HD output",
+    "course 2 has new detailed art and Full HD output",
+    "course 3 has new detailed art and Full HD output",
+    "course 4 has new detailed art and Full HD output",
+    "course 5 has new detailed art and Full HD output",
+    "course 6 has new detailed art and Full HD output",
+    "course 7 has new detailed art and Full HD output",
+    "course 8 has new detailed art and Full HD output",
+    "bend-entry lateral jerk is reduced by more than half",
+    "render interpolation fills the gaps between 50Hz physics ticks",
+    "interpolation never changes the native physical position"
+  ],
+  "background_source_sizes": [
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "framebuffer": [
+    1920,
+    1080
+  ],
+  "corner_entry": [
+    {
+      "smoothing": false,
+      "max_tick_jerk": 0.010808944702148438,
+      "lateral_steps": [
+        0.0,
+        0.0,
+        0.010808944702148438,
+        0.010894775390625,
+        0.010980606079101562,
+        0.011066436767578125,
+        0.011152267456054688,
+        0.01123809814453125,
+        0.011323928833007812,
+        0.011409759521484375,
+        0.011484146118164062,
+        0.01155853271484375,
+        0.011632919311523438,
+        0.011701583862304688,
+        0.011781692504882812,
+        0.011861801147460938,
+        0.011941909790039062,
+        0.012022018432617188,
+        0.012102127075195312,
+        0.012182235717773438,
+        0.012262344360351562,
+        0.012342453002929688,
+        0.012422561645507812,
+        0.012502670288085938,
+        0.012582778930664062
+      ]
+    },
+    {
+      "smoothing": true,
+      "max_tick_jerk": 0.0016028881072998047,
+      "lateral_steps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.001394033432006836,
+        0.0014047622680664062,
+        0.0014154911041259766,
+        0.0014262199401855469,
+        0.0014355182647705078,
+        0.0028896331787109375,
+        0.0029082298278808594,
+        0.002925395965576172,
+        0.004418134689331055,
+        0.0044481754302978516,
+        0.005970954895019531,
+        0.006011009216308594,
+        0.006051063537597656,
+        0.0076138973236083984,
+        0.0076639652252197266,
+        0.007714033126831055,
+        0.00931692123413086,
+        0.009377002716064453,
+        0.009437084197998047
+      ]
+    }
+  ],
+  "limitations": [
+    "Art sources from image_gen are 1672x941, composed and smoothly resampled into the 1920x1080 game view.",
+    "Corner entry is intentionally ramped by the adapter; this differs from unmodified Amiga dynamics."
+  ]
+}

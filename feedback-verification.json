@@ -1,0 +1,38 @@
+{
+  "version": "v3.3",
+  "passed": 19,
+  "checks": [
+    "menu starts asset 36 bootup rather than asset 38 new",
+    "voice mapping agrees with the three original start instructions",
+    "Marks plays immediately when race countdown starts",
+    "Set waits until original 75-tick midpoint",
+    "Set is the second spoken word",
+    "Go plays at the end of the countdown",
+    "return to menu restores bootup",
+    "tire squeal correct for straight acceleration",
+    "tire squeal correct for bend without steering",
+    "tire squeal correct for grounded turn",
+    "tire squeal correct for airborne turn",
+    "tire squeal correct for straight after bend",
+    "real checkpoint starts the screen flash",
+    "other players do not flash for P1 checkpoint",
+    "checkpoint visibly alternates a light overlay and normal view",
+    "checkpoint flash stops on its own",
+    "game starts with the time limit disabled",
+    "two minutes of driving do not consume race time",
+    "zero native clock never ends the race"
+  ],
+  "music_asset": 36,
+  "music_module": "bootup",
+  "original_countdown_ids": [
+    88,
+    89,
+    90
+  ],
+  "countdown_seconds": [
+    0,
+    1.5,
+    3
+  ],
+  "flash_seconds": 0.72
+}

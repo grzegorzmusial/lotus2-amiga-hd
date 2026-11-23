@@ -1,0 +1,52 @@
+{
+  "passed": 23,
+  "checks": [
+    "quarter/half/three-quarter stick retain distinct steering",
+    "released stick returns steering to center",
+    "original tree collision reduces speed and pushes car",
+    "tree near miss has no collision",
+    "original rival collision reduces speed and pushes car",
+    "rival near miss has no collision",
+    "local human contact uses native linked-player impact",
+    "ten original AI cars accelerate and advance",
+    "SDL pad left stick maps to proportional steering",
+    "SDL right and left triggers preserve independent analog levels",
+    "simulation catches up ten 100ms frames without slowing time",
+    "course 1 runs eight seconds with native collisions/AI",
+    "course 2 runs eight seconds with native collisions/AI",
+    "course 3 runs eight seconds with native collisions/AI",
+    "course 4 runs eight seconds with native collisions/AI",
+    "course 5 runs eight seconds with native collisions/AI",
+    "course 6 runs eight seconds with native collisions/AI",
+    "course 7 runs eight seconds with native collisions/AI",
+    "course 8 runs eight seconds with native collisions/AI",
+    "four-player Full HD mean frame time stays below 16.7ms",
+    "four-player Full HD 95th percentile stays below 25ms",
+    "four body-color sprites are distinct",
+    "red and blue body variants preserve requested hue"
+  ],
+  "analog_lean_at_0_25_50_75_100_percent": [
+    0,
+    8,
+    16,
+    24,
+    32
+  ],
+  "performance": {
+    "mean_ms": 14.69,
+    "p95_ms": 18.0,
+    "unlimited_fps": 68.1,
+    "players": 4,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "frames": 180,
+    "mode": "offscreen software rendering"
+  },
+  "physical_pads": 0,
+  "limitations": [
+    "No physical pad was connected.",
+    "Native routines and telemetry were compared to PUAE; the HD renderer has not been proven pixel-equivalent."
+  ]
+}

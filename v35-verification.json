@@ -1,0 +1,178 @@
+{
+  "version": "v3.5",
+  "passed": 23,
+  "checks": [
+    "five original Storm buttons are drawable",
+    "Storm buttons are in the original records",
+    "driving onto the center button activates the original boost",
+    "driving past the button in another lane leaves boost inactive",
+    "pickup dispatches the recovered 93 voice sample",
+    "the original voice has the expected sample length",
+    "the voice plays once while crossing a button",
+    "another local player can trigger the same button independently",
+    "original pickup at record 190 fires the turbo voice",
+    "original pickup at record 501 fires the turbo voice",
+    "original pickup at record 827.5 fires the turbo voice",
+    "original pickup at record 887 fires the turbo voice",
+    "original pickup at record 925.75 fires the turbo voice",
+    "turbo counts down on the original 50 Hz simulation",
+    "normal acceleration curve resumes after expiration",
+    "the native boost raises top speed on the controlled straight",
+    "Night reads 34 paired tunnel markers",
+    "every interior spans exactly its original entrance up to its exit",
+    "first Night tunnel starts at 276 and ends at 282",
+    "going indoors fills the near top of the view with the tunnel ceiling",
+    "a tunnel interior shows its ceiling lamps",
+    "night sky returns after the exit",
+    "four local views can be inside and outside independently"
+  ],
+  "night_tunnels": [
+    [
+      276,
+      282
+    ],
+    [
+      311,
+      319
+    ],
+    [
+      328,
+      329
+    ],
+    [
+      332,
+      333
+    ],
+    [
+      336,
+      337
+    ],
+    [
+      348,
+      368
+    ],
+    [
+      372,
+      373
+    ],
+    [
+      376,
+      377
+    ],
+    [
+      380,
+      381
+    ],
+    [
+      596,
+      628
+    ],
+    [
+      632,
+      638
+    ],
+    [
+      646,
+      652
+    ],
+    [
+      660,
+      661
+    ],
+    [
+      662,
+      663
+    ],
+    [
+      666,
+      667
+    ],
+    [
+      668,
+      669
+    ],
+    [
+      675,
+      681
+    ],
+    [
+      687,
+      737
+    ],
+    [
+      848,
+      850
+    ],
+    [
+      856,
+      858
+    ],
+    [
+      864,
+      866
+    ],
+    [
+      872,
+      874
+    ],
+    [
+      880,
+      882
+    ],
+    [
+      888,
+      900
+    ],
+    [
+      906,
+      932
+    ],
+    [
+      940,
+      968
+    ],
+    [
+      972,
+      973
+    ],
+    [
+      974,
+      975
+    ],
+    [
+      978,
+      979
+    ],
+    [
+      980,
+      981
+    ],
+    [
+      984,
+      985
+    ],
+    [
+      986,
+      987
+    ],
+    [
+      990,
+      991
+    ],
+    [
+      992,
+      993
+    ]
+  ],
+  "storm_buttons": [
+    190.0,
+    501.0,
+    827.5,
+    887.0,
+    925.75
+  ],
+  "top_speed_raw": [
+    6572,
+    7749
+  ]
+}

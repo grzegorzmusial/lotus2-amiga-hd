@@ -1,0 +1,18 @@
+{
+  "mode": "built-in image_gen",
+  "prompt": "Create a high resolution game sprite sheet for a Lotus Turbo Challenge II remake. Reference is the original low resolution REAR car sprite, preserve the Lotus Esprit Turbo SE 1990 wedge silhouette, black rear window, horizontal black taillight panel with rectangular red lamps, white/silver body bumper, dark tires visible at both outer corners, low flat roof. Upgrade to clean detailed hand-rendered realistic 2D sprites with subtle metal reflections and fine tire tread. Sheet has EXACTLY 9 separate cars in a perfectly even 3 column x 3 row grid, same camera height and same size, each sprite fully isolated with generous transparent margin. TRANSPARENT background, no cast shadows, no text, no guide lines. Rear chase racing camera slightly above trunk, tires bottom contact line. Reading order left-to-right top-to-bottom shows yaw angles -20,-15,-10,-5,0,+5,+10,+15,+20 degrees. All views are the REAR, never front. Center cell is perfectly symmetrical dead straight REAR. Each car has identical WHITE paint so engine can recolor body. Keep glass and tires charcoal black, red taillights, no colored reflections on white paint. All nine cars same overall height and wheel contact baseline within their cell. High detail antialiased contours, not pixel art, no scenery, no branding lettering.",
+  "source_reference": "assets/sprite-0-126-v4.png",
+  "source_sheet": "assets/hd-car-sheet.png",
+  "files": [
+    "assets/hd-car-0.png",
+    "assets/hd-car-1.png",
+    "assets/hd-car-2.png",
+    "assets/hd-car-3.png",
+    "assets/hd-car-4.png",
+    "assets/hd-car-5.png",
+    "assets/hd-car-6.png",
+    "assets/hd-car-7.png",
+    "assets/hd-car-8.png"
+  ],
+  "processing": "Split the transparent 3x3 sheet, crop each alpha silhouette and normalize to the original steering-pose proportions at eight times the original dimensions."
+}

@@ -1,0 +1,106 @@
+{
+  "tool": "Built-in image_gen",
+  "assets": [
+    {
+      "course": 0,
+      "scene": "forest",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-143b7b87-4e65-45c8-b589-2afb3567c7b1.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. An expansive distant European evergreen forest horizon and rolling foothills beneath vivid cobalt blue sky, large sculptural white cumulus clouds. Clean sunlit daytime, rich pine green, crisp natural details. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-0.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "ca89d56fe8c9b7adf62a688fe6fea93a069824ba0ff47ed8a634f7d8712d1e0b"
+    },
+    {
+      "course": 1,
+      "scene": "night",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-bc1435b0-c89b-45af-93d6-9630b0fafe95.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant city skyline with illuminated windows on the far horizon, deep indigo midnight sky, faint stars and soft moonlight. Dark blue luminous atmospheric landscape. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-1.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "fb0c728ff178b5c7b438810a88838b63a44edc042b7c1f4ea0fe790ecc89343f"
+    },
+    {
+      "course": 2,
+      "scene": "fog",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-4cdec7e4-6c08-4ad2-84b1-d6c983ebb6c3.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant conifer forest and low hills immersed in layered pale silver morning fog, softly diffused daylight, subdued sage green and grey, natural atmospheric depth. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-2.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "955e4c49d6812104b15764611836cde9d4ba9293b0af2a267cc1deb43549dee0"
+    },
+    {
+      "course": 3,
+      "scene": "snow",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-d9bc2f72-fcd3-4df2-ac8b-0ebd03b39269.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant snowy mountain ranges and alpine forest line beneath pale blue winter sky with white cloud banks, clear cold daylight, white snow, blue shadows. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-3.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "31539b912c0bf43bae493522cd4c757069636b13cb5589b2864f97f5483cd17d"
+    },
+    {
+      "course": 4,
+      "scene": "desert",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-be8bf3c1-968b-4fa2-92d5-b4340132f23b.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant warm ochre sandstone mesas and low dunes on a flat desert horizon beneath a vast azure sky and thin clouds, sunlit detailed arid landscape. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-4.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e2378698ea5cfdf573ebd8317f18937eb6e24f6b25e0cc144b3a392aa72da40b"
+    },
+    {
+      "course": 5,
+      "scene": "motorway",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-4f500330-80d7-412f-ba46-f668efbf67c6.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant rural industrial horizon with very small low buildings, fields and far tree line, clear blue daytime sky and layered white clouds, no foreground objects. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-5.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "8708ebb4c4cdc2ae2d80f2f44c94ef6eb90371a805a307988f3825604481d69e"
+    },
+    {
+      "course": 6,
+      "scene": "marsh",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-a8ab3cfd-fd56-430f-a5b4-8d2045d6ee51.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant wetlands horizon with reeds, flat water and far low trees under blue grey overcast sky with layered clouds, muted olive and teal natural landscape. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-6.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "27d9411664ae23dc85cb589e35d5a9e4c486feb3e6214d7b2e0800985a471a88"
+    },
+    {
+      "course": 7,
+      "scene": "storm",
+      "path": "C:\\Users\\Gregor\\.codex\\generated_images\\01a1ab5b-10d0-71c1-a24e-05b67509325f\\exec-f6aafef5-1a06-40ff-813c-04d9639bb27c.png",
+      "prompt": "Use case: stylized-concept. Asset type: high resolution racing-game panoramic sky and distant backdrop. Generate a single image at 3840x2160 or at least 1920x1080, wide 16:9. Distant dark wooded hills under dramatic rainstorm cloud banks, slate blue stormy sky, silver rain shafts in the far distance, subtle illuminated horizon. Style: polished realistic painted game environment, sharp fine detail, smooth gradients, Full HD remake of a 1990s scenic racing game, NOT pixel art. Composition: sky fills upper 85 percent, all terrain strictly restricted to bottom 15 percent, level horizon, distant scenery only. This is a backdrop behind a separately rendered road. No road, no cars, no signs, no text, no frames, no watermark. Opaque background.",
+      "project_asset": "C:\\Users\\Gregor\\Documents\\Codex\\2026-11-05\\u\\outputs\\Lotus2-Amiga-HD\\assets\\hd-background-7.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "7945ee9fe5c1977e7f824dc354c96cee9d21e737a1477f1bacaf24c15a654bfb"
+    }
+  ],
+  "render_resolution": [
+    1920,
+    1080
+  ],
+  "note": "Generated source textures are 1672x941. The game composes and smoothly resamples them at its Full HD render resolution."
+}

@@ -1,0 +1,26 @@
+{
+  "passed": 14,
+  "checks": [
+    "adjacent car and player at equal depth have equal projected width",
+    "adjacent car stands on the same ground plane as the player",
+    "approaching car grows continuously and holds player size while passing",
+    "approaching car moves down toward the contact plane",
+    "frame-400 rival scale matches the observed original within 2 native pixels",
+    "steering poses preserve car height instead of shrinking the body",
+    "original steering moves car in requested direction -1",
+    "original steering moves car in requested direction 1",
+    "sub-deadzone trigger noise never adds acceleration",
+    "four human cars start on distinct nonoverlapping lanes",
+    "all human cars start behind the AI grid",
+    "native rival collision re-arms after separating",
+    "four-player twenty-second drive preserves real simulation time",
+    "four-player drive keeps native car states finite and bounded"
+  ],
+  "frame400_rival_width_native_pixels": 13.09,
+  "same_depth_width_ratio": 1.0,
+  "physics": "Recovered Amiga routines; proportional analog adapter and local four-player scheduling",
+  "limitations": [
+    "No physical pad attached.",
+    "Remaining full-game and renderer differences are documented in README.md."
+  ]
+}

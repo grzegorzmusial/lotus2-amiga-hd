@@ -1,0 +1,79 @@
+{
+  "version": "v3.3",
+  "passed": 35,
+  "checks": [
+    "voice 88 duration matches original period at 22050Hz/1ch",
+    "voice 89 duration matches original period at 22050Hz/1ch",
+    "voice 90 duration matches original period at 22050Hz/1ch",
+    "voice 91 duration matches original period at 22050Hz/1ch",
+    "voice 88 duration matches original period at 22050Hz/2ch",
+    "voice 88 has identical left/right PCM at 22050Hz",
+    "voice 89 duration matches original period at 22050Hz/2ch",
+    "voice 89 has identical left/right PCM at 22050Hz",
+    "voice 90 duration matches original period at 22050Hz/2ch",
+    "voice 90 has identical left/right PCM at 22050Hz",
+    "voice 91 duration matches original period at 22050Hz/2ch",
+    "voice 91 has identical left/right PCM at 22050Hz",
+    "voice 88 duration matches original period at 44100Hz/2ch",
+    "voice 88 has identical left/right PCM at 44100Hz",
+    "voice 89 duration matches original period at 44100Hz/2ch",
+    "voice 89 has identical left/right PCM at 44100Hz",
+    "voice 90 duration matches original period at 44100Hz/2ch",
+    "voice 90 has identical left/right PCM at 44100Hz",
+    "voice 91 duration matches original period at 44100Hz/2ch",
+    "voice 91 has identical left/right PCM at 44100Hz",
+    "voice 88 duration matches original period at 48000Hz/2ch",
+    "voice 88 has identical left/right PCM at 48000Hz",
+    "voice 89 duration matches original period at 48000Hz/2ch",
+    "voice 89 has identical left/right PCM at 48000Hz",
+    "voice 90 duration matches original period at 48000Hz/2ch",
+    "voice 90 has identical left/right PCM at 48000Hz",
+    "voice 91 duration matches original period at 48000Hz/2ch",
+    "voice 91 has identical left/right PCM at 48000Hz",
+    "original title MOD starts automatically in the race",
+    "race music is quieter than spoken announcements",
+    "F2 disables race music",
+    "music choice survives race restart",
+    "F2 restores original race music",
+    "countdown follows original calls 88 Marks, 89 Set, 90 Go",
+    "four simultaneous checkpoints produce one voice announcement"
+  ],
+  "voices": [
+    {
+      "asset": 88,
+      "name": "marks",
+      "period": 214,
+      "duration_seconds": 0.5720861554145813,
+      "original_expected_seconds": 0.5720913644187381
+    },
+    {
+      "asset": 89,
+      "name": "set",
+      "period": 214,
+      "duration_seconds": 0.45854875445365906,
+      "original_expected_seconds": 0.45854190778131293
+    },
+    {
+      "asset": 90,
+      "name": "go",
+      "period": 214,
+      "duration_seconds": 0.4035147428512573,
+      "original_expected_seconds": 0.4035168788475554
+    },
+    {
+      "asset": 91,
+      "name": "checkpoint",
+      "period": 214,
+      "duration_seconds": 0.6975963711738586,
+      "original_expected_seconds": 0.6975870444430974
+    }
+  ],
+  "original_period_clock_hz": 3546895,
+  "fixed_bug": "Mono PCM was interpreted as stereo on the actual Windows audio device, halving duration and doubling pitch.",
+  "music": "Recovered original intro.mod (bootup); menu opening theme and optional race music; F2 toggles it.",
+  "mixer": [
+    44100,
+    -16,
+    2
+  ]
+}
